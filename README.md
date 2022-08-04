@@ -11,10 +11,7 @@ Enormous number of video recordings are being created and shared on the YouTube 
 ## Implementation strategy
 So basically, it will be a chrome extension, having an option to copy to current URL of the video being selected. After providing the link, it will access the transcript of the particular audio using the YouTube transcript API and then the transcript will be provided to a machine learning model will in return provide the summarized text of the transcript. The summarized text would be downloadable by the user.
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
 
 
 
@@ -67,10 +64,6 @@ npm start
 ## Demo of the Project
 
 https://drive.google.com/file/d/1u5OVxgmmDYr7lzqwm5XKmbA7Dsp6WyCh/view?usp=sharing
-## Authors
+## Author
 
-- [@Virag_Patel](https://www.github.com/19IT114)
-- [@Venis_Prajapati](https://www.github.com/venisprajapati)
-
-
-### [Click here](https://user-images.githubusercontent.com/61548445/149874631-bc411249-2d05-4e0c-ac29-dfb93de78a82.png) to have a look at the poster of the project.
+- [@Aditya_Ojha](https://github.com/ojhaadityaa)
