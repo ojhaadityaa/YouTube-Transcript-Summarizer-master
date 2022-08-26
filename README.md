@@ -54,5 +54,4 @@ npm install
 ```
 npm start
 ```
-
-- [@Aditya_Ojha](https://github.com/ojhaadityaa)
+[@Aditya_Ojha](https://github.com/ojhaadityaa)
