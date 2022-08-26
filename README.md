@@ -26,7 +26,7 @@ So basically, it will be a chrome extension, having an option to copy to current
 ## Installation
 
 
-```
+
 
 1. To run the API, you need to set up a **Virtual Environment**. Go into *youtube-transcript-summarizer-api* folder, open command prompt and paste the following command.
 ```
